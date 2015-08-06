@@ -1,0 +1,7 @@
+<?php
+$config['summit']        = 'Some fancy title';
+$config['timestamp']     = strtotime('01-01-1970 00:00:00');
+$config['location']      = 'Earth, Milkyway Galaxy, Known Universe';
+
+$config['basedir']       = "/some/path";
+$config['database']      = $config['basedir']."/db.sqlite3";

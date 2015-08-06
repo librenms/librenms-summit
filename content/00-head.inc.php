@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>LibreNMS European Summit 2015</title>
+  <title><?=$config['summit'];?></title>
   <link rel="apple-touch-icon-precomposed" sizes="152x152" href="img/favicon-152.png">
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="img/favicon-144.png">
   <link rel="apple-touch-icon-precomposed" sizes="120x120" href="img/favicon-120.png">

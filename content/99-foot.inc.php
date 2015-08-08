@@ -9,7 +9,8 @@
   <script src="js/jquery.nav.js"></script>
   <script>
    $(document).ready(function (){
-    $('#navbar').onePageNav({ 
+    $('[data-toggle="popover"]').popover();
+    $('#navbar').onePageNav({
      currentClass: 'active',
      changeHash: true,
      scrollSpeed: 2000,

@@ -28,14 +28,14 @@
       <div class="form-group">
        <label for="join_github" class="col-sm-2 control-label">GitHub-Name</label>
        <div class="col-sm-10">
-        <input type="name" class="form-control" id="join_github" name="join_github" placeholder="John.D" value="<?=$_POST['join_github'];?>">
+        <input type="name" class="form-control" id="join_github" name="join_github" placeholder="John.D" value="<?=$_POST['join_github'];?>" data-placement="top" data-toggle="popover" data-trigger="focus" data-content="Use a hyphen if you aren't on GitHub">
        </div>
       </div>
 
       <div class="form-group">
        <label for="join_irc" class="col-sm-2 control-label">IRC-Name</label>
        <div class="col-sm-10">
-        <input type="text" class="form-control" id="join_irc" name="join_irc" placeholder="johnd" value="<?=$_POST['join_irc'];?>">
+        <input type="text" class="form-control" id="join_irc" name="join_irc" placeholder="johnd" value="<?=$_POST['join_irc'];?>" data-placement="top" data-toggle="popover" data-trigger="focus" data-content="Use a hyphen if you aren't on IRC">
        </div>
       </div>
 

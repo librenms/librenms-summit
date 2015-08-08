@@ -41,7 +41,7 @@
 
     <div class="col-md-6">
      <h4>Contact</h4>
-     <p>E-Mail: <i>summit</i> . librenms.org</p>
+     <p>E-Mail: <i>team</i> .at. librenms.org</p>
      <p>IRC: <a href="//freenode.net/" target="_blank">Freenode.net</a> Channel: <i>##librenms</i></p>
     </div>
    </div>
